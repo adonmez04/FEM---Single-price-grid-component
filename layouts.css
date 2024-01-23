@@ -1,4 +1,5 @@
 body {
+  block-size: 100svb;
   display: grid;
   place-content: center;
 }
