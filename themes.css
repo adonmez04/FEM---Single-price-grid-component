@@ -1,0 +1,8 @@
+/* Theme Styles */
+:root {
+  --primary-main: hsl(179, 62%, 43%);
+  --primary-accent: hsl(71, 73%, 54%);
+  --neutral-main: hsl(204, 43%, 93%);
+  --neutral-accent: hsl(218, 22%, 67%);
+  --white: #fff;
+}

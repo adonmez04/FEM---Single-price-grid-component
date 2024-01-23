@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+  padding: unset;
+}
+
+ul li {
+  display: block;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+}

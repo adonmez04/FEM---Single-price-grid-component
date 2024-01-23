@@ -1,0 +1,32 @@
+body {
+  display: grid;
+  place-content: center;
+}
+
+/*** subscription ***/
+.subscription {
+  overflow: hidden;
+  max-inline-size: 635px;
+  display: flex;
+  flex-flow: row wrap;
+
+  @media (width <=375px) {
+    max-inline-size: 311px;
+    flex-flow: column wrap;
+  }
+}
+
+/* join-our-community */
+.join-our-community {
+  flex: 1 1 100%;
+}
+
+/* monthly-subscription */
+.monthly-subscription {
+  flex: 1;
+}
+
+/* why-us */
+.why-us {
+  flex: 1;
+}

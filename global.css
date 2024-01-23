@@ -1,0 +1,13 @@
+/* Global Styles */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font: normal 400 1rem/normal "Karla", "Arial", sans-serif;
+  /* font-style font-weight font-size/line-height font-family */
+  padding: 4.5rem 2rem 3.875rem 2rem;
+}
