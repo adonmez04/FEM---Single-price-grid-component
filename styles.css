@@ -96,7 +96,9 @@
 /* why-us */
 .why-us {
   background-color: rgba(42, 179, 177, 0.8481);
-  /* To set the opacity of the background-color here,  I used this way: 100% - 15.19% = 84.81% and it should be written as 0.8481 for the alpha channel in the RGB color function.
+  /* To set the opacity of the background-color here,  
+  I used this way: 100% - 15.19% = 84.81% 
+  and it should be written as 0.8481 for the alpha channel in the RGB color function.
   The 15.19% value comes from the figma file */
 }
 
