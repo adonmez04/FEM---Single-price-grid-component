@@ -15,7 +15,10 @@
 /* join-our-community */
 .join-our-community {
   flex: 1 1 100%;
-  /* With a flex-basis value of 100%, this flex-item covers the entire line, so other flex-items wrap to the next bottom line. It can also shrink and grow with the values of 1 and 1. */
+  /* With a flex-basis value of 100%, 
+  this flex-item covers the entire line, 
+  so other flex-items wrap to the next bottom line.
+  It can also shrink and grow with the values of 1 and 1. */
 }
 
 /* monthly-subscription */
