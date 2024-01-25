@@ -2,12 +2,14 @@
 /* subscription */
 .subscription {
   overflow: hidden;
-  max-inline-size: 635px;
+  /* 635px */
+  max-inline-size: 39.6875rem;
   display: flex;
   flex-flow: row wrap;
 
   @media (width <=375px) {
-    max-inline-size: 311px;
+    /* 311px;  */
+    max-inline-size: 19.4375rem;
     flex-flow: column wrap;
   }
 }
