@@ -27,7 +27,8 @@
   flex: 1;
   /* When you use the flex shorthand property with the value 1 on your flex-items, 
   your flex-items will be have these values: 1 1 0%. 
-  The flex-basis property has the auto for its initial value but this shorthand property doesn't work like other shorthand properties, 
+  The flex-basis property has the auto for its initial value 
+  but this shorthand property doesn't work like other shorthand properties, 
   it doesn't set the undeclared property value for its initial value. 
   It sets the 0% for the flex-basis and that means,
   it ignores the initial value (auto) and sets its undeclared value to 0%. 
