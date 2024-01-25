@@ -6,9 +6,18 @@
   margin: 0;
 }
 
+/* The layout of the body */
 body {
-  font: normal 400 1rem/normal "Karla", "Arial", sans-serif;
-  /* font-style font-weight font-size/line-height font-family */
+  block-size: 100svb;
+  display: grid;
+  place-content: center;
+
   padding: 4.5rem 2rem 3.875rem 2rem;
+}
+
+/* The theme of the body */
+body {
+  /* font-style font-weight font-size/line-height font-family */
+  font: normal 400 1rem/normal "Karla", "Arial", sans-serif;
   background-color: hsla(205, 44%, 93%, 1);
 }

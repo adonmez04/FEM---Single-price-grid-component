@@ -1,3 +1,4 @@
+/* The list elements */
 ul {
   list-style: none;
   padding: unset;
@@ -6,6 +7,8 @@ ul {
 ul li {
   display: block;
 }
+
+/* The link elements */
 
 a {
   display: block;
